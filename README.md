@@ -10,13 +10,21 @@
 BreastCancerDetection is a machine learning project hosted on GitHub that aims to detect breast cancer using machine learning algorithms. The project is written in Python and uses the Scikit-learn library for implementing machine learning algorithms.
 
 - Part1 Data Preprocessing
+
 -Data Explore
+
 -CountPlot
+
 -Correlation matrix and heatmap
+
 -Spliting the Dataset train and test set
+
 -Feature Scaling
+
 -Part-2 : Building The Model
+
 -Cross Validation
+
 -Part 3 Randomized Search to find the best Parameter(Logistic regression)
 
 -Part4) Final model (Logestic regression)
